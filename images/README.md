@@ -1,1 +1,1 @@
-Any external images will be shoved in /images/ directory.
+There are currently _no_ external images in /images/
