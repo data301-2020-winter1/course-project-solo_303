@@ -4,9 +4,9 @@
 Being the superficial human that I am, I like to look at beautiful things, and luckily, I found an art dataset from Kaggle. The dataset is called _Museum of Modern Art Collection: Title, artist, date, and medium of every artwork in the MoMA collection_, and I am generally interested in the variety of mediums used to create art, but Modern and Contemporary Art is particularly interesting, because it exceeds the expectations and limitations of traditional art through bold experimentations in medium, techinique, and thought. Contemporary art can also be interesting because it questions the definition of 'art', and one can tell much about another by their own definition of 'art'.
 
 I am thinking of analyzing topics like
-- trends of Medium during a certain time, based on the Date
+- trends of Classification during a certain time, based on the Date
 - Nationality of artists in the collection
-- variety in Medium an artist has done (in collection)
+- variety in Medium an Classification has done (in collection)
 - Gender of Artists in collection
 
 ## About the Dataset
