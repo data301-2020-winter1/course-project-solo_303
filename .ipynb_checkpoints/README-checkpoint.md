@@ -11,7 +11,7 @@ I am analyzing topics like
 
 ## About the Dataset
 
-My dataset is the Museum of Modern Art's collection that spans over 150 years. This data was collected from MoMA's database 4 years ago, by Abigail Larion with the intention of engaging people in modern art. There are two datasets: Artists and Artworks. The artists have 15092 rows (artists) and notable variables are Nationality, Gender, Birth Year, Death Year. For the Artworks dataset, there are 130263 individual pieces of artwork (columns) and notable variables include Medium, Acquisition Date, Dimensions, size (diameter, circumference, height, width, depth), Classification. The datasets are currently stored in csv files, which will put my newly acquired Excel skills to use.
+My dataset is the Museum of Modern Art's collection that spans over 150 years. This data was collected from MoMA's database 4 years ago, by Abigail Larion with the intention of engaging people in modern art. There are two datasets: Artists and Artworks. The artists have 15092 columns (artists) and notable variables are Nationality, Gender, Birth Year, Death Year. For the Artworks dataset, there are 130263 individual pieces of artwork (columns) and notable variables include Medium, Acquisition Date, Dimensions, size (diameter, circumference, height, width, depth), Classification. The datasets are currently stored in csv files, which will put my newly acquired Excel skills to use.
 
 ## Team Members
 - Jodi Chan: I am doing a data science minor with a major in computer science. Data science is more flexible in regards to manpower. I can work on projects by myself where as Computer Science projects are always in teams. It's refreshing to have some sense of self-care in the form of individualism.
