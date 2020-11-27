@@ -7,7 +7,7 @@ I am analyzing topics like
 - Nationality of artists
 - Age, Birth, and Death of artists
 - Gender of Artists in collection
-- Popular Classifications
+- Most quantities of Classifications
 
 ## About the Dataset
 
