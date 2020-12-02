@@ -8,6 +8,9 @@ I am analyzing topics like
 - Age, Birth, and Death of artists
 - Gender of Artists in collection
 - Most quantities of Classifications
+- Classifications through time
+- amount of each Classification within dataset
+- Numbers of artworks acquired through time
 
 ## About the Dataset
 
