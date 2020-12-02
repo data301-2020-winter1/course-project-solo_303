@@ -20,7 +20,7 @@ My dataset is the Museum of Modern Art's collection that spans over 150 years. T
 - Jodi Chan: I am doing a data science minor with a major in computer science. Data science is more flexible in regards to manpower. I can work on projects by myself where as Computer Science projects are always in teams. It's refreshing to have some sense of self-care in the form of individualism.
 
 ## Tableau Presentation 
-![Video Link](https://youtu.be/thWdgDHw_P0)
+[Video Link](https://youtu.be/thWdgDHw_P0)
 
 ## References
 [MoMA Dataset from Kaggle](https://www.kaggle.com/momanyc/museum-collection)
